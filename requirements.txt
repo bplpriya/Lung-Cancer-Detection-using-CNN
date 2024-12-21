@@ -1,0 +1,14 @@
+# GUI
+tk
+
+# Machine Learning and Deep Learning
+tensorflow>=2.0
+keras
+scikit-learn
+
+# Image Processing (if needed for preprocessing)
+opencv-python
+pillow
+
+# Pre-trained Models
+tensorflow-hub
